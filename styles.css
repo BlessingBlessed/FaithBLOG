@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f1cbe3
+
 }
 
 header {
@@ -38,8 +39,8 @@ main {
 }
 
 footer {
-    background-color: #FADADD;
-    color: #b85050;
+    background-color: #b5dd9122;
+    color: #1f4348;
     padding: 10px 0;
     text-align: center;
     position: fixed;
