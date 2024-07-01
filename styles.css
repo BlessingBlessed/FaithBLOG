@@ -17,10 +17,8 @@ body {
     flex-direction: column;
     /* Generic project styles */
     color: #3a3a3a;
-    background: #000 center/cover url("../blog.jpg") repeat;
-    filter:grayscale()
-
-}
+    background-image: url("https://homepages.cae.wisc.edu/~ece533/images/airplane.png"); 
+    
 
 
 
