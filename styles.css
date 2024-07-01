@@ -20,7 +20,7 @@ body {
 
     background-image:url(../blog.jpg) repeat;
     background-color: #cccccc;    
-    filter:grayscale()
+    /* filter:grayscale()*/
 
 }    
 
