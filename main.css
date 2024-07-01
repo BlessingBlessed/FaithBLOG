@@ -5,4 +5,13 @@ html{
 body{
     background-color: #333;
     color:whitesmoke;
-    background-image: url('blog_image.JPG');}
+    align-items: center;
+    justify-content: center;
+    background-image: url("/blog.JPG");
+    width:100vw;
+   height: 250vh;
+   max-width: 1500px;
+
+
+}
+
