@@ -19,7 +19,7 @@ body {
     color: #3a3a3a;
 
     background-image:url(blog.jpg) repeat;
-       
+    filter:grayscale;  
    
 
 }    
